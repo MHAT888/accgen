@@ -1,6 +1,14 @@
 requests
+time
 colorama
 pyfiglet
+json
+base64
+hmac
+hashlib
+random
+re
+threading
 bs4
 hmac
 secmail
