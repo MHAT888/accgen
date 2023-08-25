@@ -2,7 +2,6 @@ requests
 colorama
 pyfiglet
 bs4
-random
 urllib
 base64
 hmac
