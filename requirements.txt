@@ -3,7 +3,6 @@ colorama
 pyfiglet
 bs4
 hmac
-hashlib
 secmail
 random
 re
