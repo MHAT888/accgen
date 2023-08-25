@@ -4,6 +4,5 @@ pyfiglet
 bs4
 hmac
 secmail
-re
 threading
 json
