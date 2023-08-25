@@ -1,0 +1,15 @@
+requests
+time
+colorama
+pyfiglet
+bs4
+random
+urllib
+base64
+hmac
+hashlib
+secmail
+random
+re
+threading
+json
